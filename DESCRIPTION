@@ -1,0 +1,21 @@
+Package: ComplexR
+Type: Project
+Title: Complex Number Analysis & Visualization Toolkit
+Version: 1.0.0
+Authors@R: person("Your", "Name", email = "you@example.com", role = c("aut", "cre"))
+Description: An interactive Shiny web application demonstrating complex
+    number arithmetic through real-world applications: polynomial root
+    finding, AC circuit impedance analysis, Mandelbrot/Julia fractal
+    generation, a from-scratch Discrete Fourier Transform, and 2D
+    geometric transformations via complex multiplication.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+    shiny,
+    bslib,
+    ggplot2
+Suggests:
+    testthat (>= 3.0.0),
+    shinycssloaders
+RoxygenNote: 7.3.1
