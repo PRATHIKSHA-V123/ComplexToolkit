@@ -4,6 +4,8 @@
 
 An interactive R Shiny app that explores complex numbers through polynomial roots, AC circuit impedance, Mandelbrot/Julia fractals, a from-scratch Fourier transform, and 2D geometric transformations.
 
+   🔗 **Live demo:** [https://prathiksha-v123.shinyapps.io/ComplexToolkit/](https://prathiksha-v123.shinyapps.io/ComplexToolkit/)
+
 ## Features
 
 The app has five tabs, each showing a real-world use of complex arithmetic.
